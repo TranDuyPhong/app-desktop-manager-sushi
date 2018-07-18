@@ -1,0 +1,377 @@
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.exe.config
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.exe
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.pdb
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.exe
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.pdb
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.csprojResolveAssemblyReference.cache
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fLoginSystem.resources
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fSystem.resources
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fTaiKhoan.resources
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fThucDon.resources
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.PrintRibbonControllerResources.resources
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.Properties.Resources.resources
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.XRDesignRibbonControllerResources.resources
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.csproj.GenerateResource.Cache
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.exe.licenses
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.exe.config
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.exe
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.pdb
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.exe
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.pdb
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.csprojResolveAssemblyReference.cache
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fAddUser.resources
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fLoginSystem.resources
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fSystem.resources
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fChangePassword.resources
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fThucDon.resources
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.PrintRibbonControllerResources.resources
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.Properties.Resources.resources
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.XRDesignRibbonControllerResources.resources
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.csproj.GenerateResource.Cache
+F:\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.exe.licenses
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.exe.config
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.exe
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.pdb
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.exe
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.pdb
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.csprojResolveAssemblyReference.cache
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fAddUser.resources
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fLoginSystem.resources
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fSystem.resources
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fChangePassword.resources
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fThucDon.resources
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.PrintRibbonControllerResources.resources
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.Properties.Resources.resources
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.XRDesignRibbonControllerResources.resources
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.csproj.GenerateResource.Cache
+C:\Users\PhongSn\Desktop\Backup QUANLYSHUSHI\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.exe.licenses
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.exe.config
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.exe
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.pdb
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fAddUser.resources
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fLoginSystem.resources
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fSystem.resources
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fChangePassword.resources
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fThucDon.resources
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.PrintRibbonControllerResources.resources
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.Properties.Resources.resources
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCBaoCaoNgay.resources
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCBaoCaoThang.resources
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCBill.resources
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCChucVu.resources
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCDoanhThu.resources
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCMonAn.resources
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCNhanVien.resources
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.XRDesignRibbonControllerResources.resources
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.csproj.GenerateResource.Cache
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.exe.licenses
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.exe
+E:\C#\Text C# ( Phần Mềm )\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.pdb
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.exe.config
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.exe
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.pdb
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fAddUser.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fLoginSystem.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fForgetPassword.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fSystem.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fChangePassword.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fThucDon.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.PrintRibbonControllerResources.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.Properties.Resources.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCBaoCaoNgay.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCBaoCaoThang.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCBill.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCChucVu.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCDanhSachCa.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCDoanhThu.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCMonAn.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCNhanVien.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.XRDesignRibbonControllerResources.resources
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.csproj.GenerateResource.Cache
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.exe.licenses
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.exe
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.pdb
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.csprojResolveAssemblyReference.cache
+E:\C#\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCLuongNhanVien.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.exe.config
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.exe
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.pdb
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.csprojResolveAssemblyReference.cache
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fAddUser.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fLoginSystem.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fForgetPassword.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fSystem.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fChangePassword.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fThucDon.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.PrintRibbonControllerResources.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.Properties.Resources.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCBaoCaoNgay.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCBaoCaoThang.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCBill.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCChucVu.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCDanhSachCa.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCDoanhThu.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCLuongNhanVien.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCMonAn.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCNhanVien.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.XRDesignRibbonControllerResources.resources
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.csproj.GenerateResource.Cache
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.exe.licenses
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.exe
+E:\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.pdb
+D:\Học\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.exe.config
+D:\Học\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.exe
+D:\Học\C#\Text C# ( Phần Mềm )\Quản Lý Sushi\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.pdb
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.exe.config
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.exe
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\QUANLYSHUSHI.pdb
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.CodeParser.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Data.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.DataAccess.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Images.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Map.v17.2.Core.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Mvvm.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Office.v17.2.Core.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.SpellChecker.v17.2.Core.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.TreeMap.v17.2.Core.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Utils.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Xpo.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraBars.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraCharts.v17.2.Extensions.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraCharts.v17.2.UI.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraMap.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraPivotGrid.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraReports.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraScheduler.v17.2.Core.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraScheduler.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraScheduler.v17.2.Reporting.Extensions.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraSpellChecker.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraTreeMap.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraWizard.v17.2.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraScheduler.v17.2.Reporting.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Data.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.DataAccess.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Map.v17.2.Core.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Mvvm.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Office.v17.2.Core.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.SpellChecker.v17.2.Core.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.TreeMap.v17.2.Core.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Utils.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Xpo.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraBars.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraCharts.v17.2.UI.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraMap.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraPivotGrid.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraReports.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraScheduler.v17.2.Reporting.Extensions.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraScheduler.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraScheduler.v17.2.Core.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraSpellChecker.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraTreeMap.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraWizard.v17.2.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\DevExpress.XtraScheduler.v17.2.Reporting.xml
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.Map.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.Map.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.Map.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.Map.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraPivotGrid.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraPivotGrid.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraReports.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraReports.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraReports.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraScheduler.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraScheduler.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraSpellChecker.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraSpellChecker.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraSpellChecker.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraSpellChecker.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraWizard.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraWizard.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraWizard.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraWizard.v17.2.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\de\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\es\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.csprojAssemblyReference.cache
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fAddUser.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fLoginSystem.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fForgetPassword.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fSystem.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fChangePassword.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.fThucDon.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.PrintRibbonControllerResources.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.Properties.Resources.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCBaoCaoNgay.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCBaoCaoThang.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCBill.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCChucVu.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCDanhSachCa.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCDoanhThu.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCLuongNhanVien.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCMonAn.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.UCNhanVien.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.XRDesignRibbonControllerResources.resources
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.csproj.GenerateResource.cache
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.exe.licenses
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.csproj.CoreCompileInputs.cache
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.csproj.CopyComplete
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.exe
+F:\Projects\App Desktop QL Shushi ( Winform + Devexpress ) ( 100% )\Text C# ( Phần Mềm ) Bản Mới\C# WindowsForms ( Phần Mềm Quản Lý Shushi )\QUANLYSHUSHI\QUANLYSHUSHI\obj\Debug\QUANLYSHUSHI.pdb
